@@ -1,5 +1,45 @@
 ## Hi there 👋
 
+Labs 
+Network
+Malware
+Endpoint
+Phishing/Identity
+
+Projects
+Wazuh + SOAR Implementation X
+Windows Event Log + ART Detection X
+Security Onion + PCAP Investagation X
+Microsoft 365 + MDE Implementation X
+Active Directory + Detect Attacks X
+Malware Analysis Lab X
+IDS/Zeek Network Monitoring X
+Honeypot X
+REST API X
+
+Certifications
+
+Skills
+Troubleshooting
+Problem-Solving
+Researching  
+
+Tools
+SIEM : 
+  Microsoft Sentinel
+  Splunk
+  Elastic
+
+IDS/IPS :
+  Suricata
+  Snort
+  Zeek
+
+EDR :
+  Velociraptor
+  Elastic EDR
+  Wazuh
+
 <!--
 **e-fvgy/e-fvgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
