@@ -23,6 +23,10 @@ Skills
 Troubleshooting
 Problem-Solving
 Researching  
+Networking
+Collaboration
+Documentation
+Segmentation
 
 Tools
 SIEM : 
