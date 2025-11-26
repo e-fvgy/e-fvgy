@@ -29,16 +29,20 @@ SIEM :
   Microsoft Sentinel
   Splunk
   Elastic
-
+  SolarWinds
+  QRadar
+  
 IDS/IPS :
   Suricata
   Snort
   Zeek
+  Cisco Firepower
 
 EDR :
   Velociraptor
   Elastic EDR
   Wazuh
+  SentinelOne
 
 <!--
 **e-fvgy/e-fvgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
