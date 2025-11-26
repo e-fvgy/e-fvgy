@@ -18,6 +18,9 @@ Honeypot X
 REST API X
 
 Certifications
+Cisco CCNA X
+CompTIA Network+ X
+CompTIA Security+ X
 
 Skills
 Troubleshooting
